@@ -11,7 +11,7 @@ Both should be installed and make sure mongodb is running.
 
 #### step 1
 ```shell
-git clone https:
+git clone https: https://github.com/sahil00016/chat-app-mern/
 ```
 #### step 2
 rename env files from .env.example to .env
@@ -53,5 +53,5 @@ Open another terminal in folder, Also we have to make sure mongodb is running in
 cd server
 yarn start
 ```
-Done! Now open localhost:3000 in your browser.
+Now open localhost:3000 in your browser.
 
